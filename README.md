@@ -1,4 +1,4 @@
-Hello world! And Gartner!
+Hello world! And Gartner!!!
 
 ![](https://github.com/CheckmarxDev/NodeGoat-test/workflows/cx/badge.svg)
 
